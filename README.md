@@ -10,6 +10,5 @@ Estou aprendendo <br />
 
 Meus contatos <br />
 
-<a href="https://www.instagram.com/thaahm" target="_blank">![image](https://github.com/thaahm/thaynah/assets/162355250/ef56c03e-aad4-4e83-8be7-98e3e7eb637c)
-<a href="https://www.linkedin.com/in/thaynahmendonca" target="_blank">![image](https://github.com/thaahm/thaynah/assets/162355250/c04edc44-61d2-42fd-afc7-3798811837a7)
-<a href = "mailto:contato@thaynahmendonca@outlook.com">![image](https://github.com/thaahm/thaynah/assets/162355250/38af6145-267a-45ec-8f75-c10d9cb823d2)
+<a href="https://www.linkedin.com/in/thaynahmendonca" target="_blank">![image](https://github.com/thaahm/thaahm/assets/162355250/d568f65a-578d-4d93-a164-07b632532ae7)
+<a href = "mailto:contato@thaynahmendonca@outlook.com">![image](https://github.com/thaahm/thaahm/assets/162355250/08ca8a81-1a9c-4f56-881a-5b6bf03aaf8c)
