@@ -10,5 +10,5 @@
 
 :mailbox_with_no_mail: **Meus contatos:** <br />
 
-<a href="https://www.linkedin.com/in/thaynahmendonca" target="_blank">![image](https://github.com/thaahm/thaahm/assets/162355250/d568f65a-578d-4d93-a164-07b632532ae7)
-<a href = "mailto:contato@thaynahmendonca@outlook.com">![image](https://github.com/thaahm/thaahm/assets/162355250/08ca8a81-1a9c-4f56-881a-5b6bf03aaf8c)
+<a href="https://www.linkedin.com/in/thaynahmendonca" target="_blank">![image](https://github.com/thaahm/thaahm/assets/162355250/60f1654d-3010-49a5-a247-a41de326630e) 
+<a href = "mailto:contato@thaynahmendonca@outlook.com">![image](https://github.com/thaahm/thaahm/assets/162355250/f93dc5a9-cf8c-497f-b4ff-426184a435c0)
