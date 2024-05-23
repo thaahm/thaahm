@@ -7,6 +7,6 @@ Linkedin: <a href="https://www.linkedin.com/in/thaynahmendonca/">Thayná Henriqu
 E-mail: thaynahmendonca@outlook.com
 
 
-                                                       Tecnologias
+**Tecnologias**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width= "60" height="60"/>
